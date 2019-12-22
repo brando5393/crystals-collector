@@ -8,7 +8,7 @@ body{
     background-color: white;
 }
 
-#computer-number-text, #win-count-text, #loss-count-text, #user-score-text{
-    background-color: royalblue;
+#computer-number-display, #win-count-display, #loss-count-display, #user-score-display{
+    background-color: #E89355;
     color: white;
 }

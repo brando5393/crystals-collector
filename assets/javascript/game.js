@@ -60,6 +60,8 @@ $(document).ready(function () {
             userScoreText.text("Sorry, You Loose.");
             // reset game
             resetGame();
+        }else{
+            
         }
     });
 });
