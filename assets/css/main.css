@@ -2,13 +2,28 @@ body{
     background-image: url(https://cdn.shopify.com/s/files/1/1259/9857/products/jigsaw-puzzle-blurry-rainbow-impuzzible-1000-piece-jigsaw-puzzle-1_3615f516-cd39-413f-ba45-363382364c0c_923x700.jpg?v=1565821390);
     background-repeat: no-repeat;
     background-size: cover;
+    font-family: 'Girassol', cursive;
 }
 
 .container{
     background-color: white;
+    margin-top: 15px;
+    
+}
+
+.page-heading{
+    font-family: 'Courgette', cursive;
+    text-align: center;
+    text-decoration: underline;
 }
 
 #computer-number-display, #win-count-display, #loss-count-display, #user-score-display{
     background-color: #E89355;
     color: white;
+}
+
+#copyright-text{
+    text-align: center;
+    color: white;
+    margin-top: 10px;
 }
