@@ -5,6 +5,10 @@ body{
     font-family: 'Girassol', cursive;
 }
 
+.col-lg-3{
+    text-align: center;
+}
+
 .container{
     background-color: white;
     margin-top: 15px;
@@ -26,4 +30,8 @@ body{
     text-align: center;
     color: white;
     margin-top: 10px;
+}
+
+#rules-heading{
+    text-decoration: underline;
 }
